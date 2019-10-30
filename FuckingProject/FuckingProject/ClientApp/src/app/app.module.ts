@@ -45,6 +45,7 @@ import { GroupByPipe } from './pipes/group-by.pipe';
 
 import { AppComponent } from './components/app.component';
 import { LoginComponent } from './components/login/login.component';
+import { RegisterComponent } from './components/register/register.component';
 import { HomeComponent } from './components/home/home.component';
 import { CustomersComponent } from './components/customers/customers.component';
 import { ProductsComponent } from './components/products/products.component';
@@ -91,6 +92,7 @@ import { RoleEditorComponent } from './components/controls/role-editor.component
   declarations: [
     AppComponent,
     LoginComponent,
+    RegisterComponent,
     HomeComponent,
     CustomersComponent,
     ProductsComponent,
